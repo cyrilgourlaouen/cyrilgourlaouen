@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1>Hi there 👋</h1>
+Discover me by checking my portfolio : <a href="https://cyril-gourlaouen.fr">link</a> (Work in progress)
 
 <!--
 **cyrilgourlaouen/cyrilgourlaouen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
